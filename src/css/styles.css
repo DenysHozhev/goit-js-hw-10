@@ -31,3 +31,16 @@
 .last-secounds {
   color: red;
 }
+
+.form {
+  font-size: 26px;
+}
+input {
+  font-size: 26px;
+  width: 200px;
+}
+
+fieldset {
+  font-size: 26px;
+  width: 350px;
+}
