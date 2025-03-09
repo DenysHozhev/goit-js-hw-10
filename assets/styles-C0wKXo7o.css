@@ -1,1 +1,0 @@
-#datetime-picker{font-size:25px}[data-start]{font-size:25px;background-color:#f7f7f9}[data-start]:not([disabled]){background-color:#19bc17}[data-start][disabled]{background-color:#888887}.timer{display:flex;gap:25px}.field{display:flex;flex-direction:column}.value{font-size:45px}.last-secounds{color:red}
